@@ -6,7 +6,7 @@ const LoginPage = () => {
     <div className="container">
       {/* LEFT SIDE */}
       <div className="left">
-        <img src="/healthcare.png" alt="Healthcare Illustration" />
+        <img src="/ohc.png" alt="Healthcare" className="left-img" />
       </div>
 
       {/* RIGHT SIDE */}
